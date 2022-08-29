@@ -18,6 +18,7 @@ class mobile(unittest.TestCase):
     def tearDownClass(cls):
         cls.session.close()
 
+    #首页
     def test001_index(self):
         #请求参数
         requests_data = {}
@@ -36,6 +37,7 @@ class mobile(unittest.TestCase):
         self.assertEqual(200, data.get("code"))
         self.assertEqual("success", data.get("result"))
 
+    #登录
     def test002_login(self):
         #请求参数
         requests_data = {"member_name": "13012345678", "password": "test123"}
