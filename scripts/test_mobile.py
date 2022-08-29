@@ -37,6 +37,7 @@ class mobile(unittest.TestCase):
         self.assertEqual(200, data.get("code"))
         self.assertEqual("success", data.get("result"))
 
+
     #登录
     def test002_login(self):
         #请求参数
