@@ -1,5 +1,5 @@
 import unittest
-from tools.HTMLTestRunner_PY3 import HTMLTestRunner
+from tools.HTMLTestRunner import HTMLTestRunner
 from scripts.test_mobil import mobile
 
 suite = unittest.TestSuite()

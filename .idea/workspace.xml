@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="519566b3-4ccf-4c44-b666-0f4602825674" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/report/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_suite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/HTMLTestRunner_PY3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,8 +112,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="357" />
-    <option name="y" value="116" />
+    <option name="x" value="389" />
+    <option name="y" value="134" />
     <option name="width" value="1479" />
     <option name="height" value="862" />
   </component>
@@ -159,6 +156,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/tools" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\untitled\untitled\learn52\tools" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -292,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661790492622</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新">
+      <created>1661855609542</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661855609542</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -328,7 +337,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49931413" visible="true" weight="0.17228661" />
       <window_info id="Structure" order="1" sideWeight="0.5006859" side_tool="true" weight="0.1054823" />
@@ -352,7 +362,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="备注" />
     <MESSAGE value="备注01" />
-    <option name="LAST_COMMIT_MESSAGE" value="备注01" />
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/api.py" />
