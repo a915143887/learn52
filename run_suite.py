@@ -1,7 +1,8 @@
 #导包
 import unittest
 from tools.HTMLTestRunner_PY3 import HTMLTestRunner
-from scripts.test_mobil import mobile
+from scripts.test_mob import mobile
+
 
 #封装测试套件
 suite = unittest.TestSuite()

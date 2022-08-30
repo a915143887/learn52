@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="519566b3-4ccf-4c44-b666-0f4602825674" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/test_mob.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test_mobil.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test_mobil.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,13 +27,25 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/test_mob.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1410">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run_suite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="390">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#4#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/test_mobil.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="43" column="77" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="77" />
+            <state relative-caret-position="1260">
+              <caret line="42" column="77" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="77" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -58,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="809">
-              <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="28" />
+            <state relative-caret-position="-455">
+              <caret line="60" column="49" lean-forward="true" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -79,8 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+            <state relative-caret-position="60">
+              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -101,21 +114,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/api.py" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/scripts.py" />
         <option value="$PROJECT_DIR$/scripts/test001_index.py" />
         <option value="$PROJECT_DIR$/api/api.py" />
         <option value="$PROJECT_DIR$/api/mobile_api.py" />
         <option value="$PROJECT_DIR$/utils.py" />
-        <option value="$PROJECT_DIR$/scripts/test_mobil.py" />
         <option value="$PROJECT_DIR$/scripts/test_mobile.py" />
+        <option value="$PROJECT_DIR$/scripts/test_mobil.py" />
+        <option value="$PROJECT_DIR$/scripts/test_mob.py" />
+        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/run_suite.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="357" />
-    <option name="y" value="116" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="803" />
+    <option name="y" value="110" />
     <option name="width" value="1479" />
     <option name="height" value="862" />
   </component>
@@ -181,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run_suite">
+  <component name="RunManager" selected="Python tests.Unittests in test_mob.py">
     <configuration name="run_suite" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn52" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +231,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_mobile.testMobile.test001_index" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_mob.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="learn52" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,8 +241,8 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_mobile.testMobile.test001_index&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/scripts/test_mob.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in test_mobil.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -261,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_mob.py" />
         <item itemvalue="Python.run_suite" />
         <item itemvalue="Python tests.Unittests in test_mobile.py" />
         <item itemvalue="Python tests.Unittests for test_mobile.mobile.test001_index" />
         <item itemvalue="Python tests.Unittests in test_mobil.py" />
-        <item itemvalue="Python tests.Unittests for test_mobile.testMobile.test001_index" />
       </list>
     </recent_temporary>
   </component>
@@ -329,28 +343,17 @@
       <option name="project" value="LOCAL" />
       <updated>1661856912669</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="更新04">
+      <created>1661857093446</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661857093446</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_mobile_py - 2022.08.27 at 22h 02m 56s.xml">
-      <configuration name="Unittests in test_mobile.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mobil_py - 2022.08.27 at 22h 04m 48s.xml">
-      <configuration name="Unittests in test_mobil.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mobil_py - 2022.08.27 at 22h 43m 08s.xml">
-      <configuration name="Unittests in test_mobil.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mobil_py - 2022.08.27 at 22h 46m 59s.xml">
-      <configuration name="Unittests in test_mobil.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mobil_py - 2022.08.28 at 00h 24m 10s.xml">
-      <configuration name="Unittests in test_mobil.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mobil_py - 2022.08.28 at 00h 28m 25s.xml">
-      <configuration name="Unittests in test_mobil.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_mobile_mobile_test001_index - 2022.08.29 at 17h 54m 02s.xml">
       <configuration name="Unittests for test_mobile.mobile.test001_index" configurationId="tests" />
     </history-entry>
@@ -363,16 +366,35 @@
     <history-entry file="Unittests_in_test_mobile_py - 2022.08.29 at 18h 26m 16s.xml">
       <configuration name="Unittests in test_mobile.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_mob_py - 2022.08.30 at 20h 54m 01s.xml">
+      <configuration name="Unittests in test_mob.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_mob_py - 2022.08.30 at 21h 02m 58s.xml">
+      <configuration name="Unittests in test_mob.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_mob_py - 2022.08.30 at 21h 03m 42s.xml">
+      <configuration name="Unittests in test_mob.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_mob_py - 2022.08.30 at 21h 33m 39s.xml">
+      <configuration name="Unittests in test_mob.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_mob_py - 2022.08.30 at 21h 34m 01s.xml">
+      <configuration name="Unittests in test_mob.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_mob_py - 2022.08.30 at 21h 36m 39s.xml">
+      <configuration name="Unittests in test_mob.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="803" y="110" width="1479" height="862" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49931413" visible="true" weight="0.17228661" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49931413" visible="true" weight="0.22692575" />
       <window_info id="Structure" order="1" sideWeight="0.5006859" side_tool="true" weight="0.1054823" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37744033" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2554945" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39917696" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,11 +415,42 @@
     <MESSAGE value="更新01" />
     <MESSAGE value="更新02" />
     <MESSAGE value="更新03" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新03" />
+    <MESSAGE value="更新04" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新04" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/api.py" />
     <entry file="file://$PROJECT_DIR$/scripts.py" />
+    <entry file="file://$PROJECT_DIR$/api/mobile_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test_mob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test_mobil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="42" column="77" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/test_mobile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
@@ -408,52 +461,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/test_mobil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="43" column="77" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/mobile_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/HTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tools/HTMLTestRunner_PY3.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="809">
-          <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="28" />
+        <state relative-caret-position="-455">
+          <caret line="60" column="49" lean-forward="true" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/run_suite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="390">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#4#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
