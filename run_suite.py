@@ -14,6 +14,6 @@ report = "./report/report.html"
 #打开文件流
 with open(report, "wb") as e:
     #创建运行器
-    runner = HTMLTestRunner(e, title="mobile测试报告")
+    runner = HTMLTestRunner(e, title="mobile报告")
     #运行
     runner.run(suite)
