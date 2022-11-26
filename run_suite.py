@@ -17,4 +17,3 @@ with open(report, "wb") as e:
     runner = HTMLTestRunner(e, title="mobile测试报告")
     #运行
     runner.run(suite)
-
